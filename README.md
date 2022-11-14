@@ -1,13 +1,10 @@
-# Mid_term_Project
+# **Mid_term_Project: Olist BI Project**
 
 Group members: Daniela Figueiredo, Sarina Masoumi, Nir Gilk 
-
-**Olist BI Project**
 
 Goal: Present management with the most important KPIs progress and suggest business insights and improvements 
 
 Project Plan: 
-
 Day 1 - Layout & project objectives, preparing data & project plan 
 Day 2 - Data cleaning & analysis 
 Day 3 - Data analysis & visualisation 
@@ -17,7 +14,6 @@ Day 5-  Final touches, presenting the project
 Documentation - throughout the project 
 
 Daily schedule: 
-
 09:00 - 09:30 - morning update meeting
 09:30 - 12:30 - working session 1 
 12:30 - 13:30 - break 
